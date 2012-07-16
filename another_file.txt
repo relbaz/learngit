@@ -1,9 +1,10 @@
 so this is 
-
-> this file got some editing done.
-all over the place.
-
-
+.. 
+..> this file got some editing done.
+.. all over the place.
+.. 
+.. 
+.. eventually, committed it and pushed to git. fine?
+.. 
+.. 
 another file.
-
-eventually, committed it and pushed to git. fine?
