@@ -8,3 +8,16 @@ so this is
 .. 
 .. 
 another file.
+
+
+After editing this file a bit more, there are multiple changes:
+
+He got out of bed and opened his front door. 'hello!' said Pooh, in
+case there was anything outside. 'hello!' said Whatever-it-was. 'Oh',
+said Pooh, 'hello!' 'hello!' 'Oh, there you are!' said Pooh, 'hello!'
+'hello!' said the strange animal, wondering how long this was going
+on. Pooh was just going to say 'hello!' for the fourth time when he
+thought that he wouldn't, so he said, 'Who is it?' instead. 'Me,' said
+a voice. 'Oh!' said Pooh. 'Well, come here.' So Whatever-it-was came
+here, and in the light of the candle he and Pooh looked at each
+other. 'I'm Pooh,' said Pooh. 'I'm Tigger,' said Tigger...
