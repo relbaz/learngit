@@ -1,0 +1,15 @@
+
+arg=$@
+fname=`basename $arg`
+ext=${arg##*.}
+
+if [ $ext == "coffee" -o $ext == "iced" ]
+then
+iced -p $arg > /tmp/${fname}.js
+elif [ $ext == "tjs" ]
+then
+tamejs $arg -o /tmp/${fname}.js
+fi
+
+emacs /tmp/${fname}.js
+
