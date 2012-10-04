@@ -2,8 +2,8 @@ learngit
 ========
 
 l.e.a.r.n..g.i.t.
-blab lbabadfbsdfasdfg
 
-these changes are also untracked.
+* playing with git
+* storing semi useful scripts, headers, dot files
 
 
