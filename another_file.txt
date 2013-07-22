@@ -1,13 +1,9 @@
+This file is modified for branch new_branch_7_2013 on July 2013.
+
 so this is 
-.. 
-..> this file got some editing done.
-.. all over the place.
-.. 
-.. 
-.. eventually, committed it and pushed to git. fine?
-.. 
-.. 
 another file.
+
+
 
 
 After editing this file a bit more, there are multiple changes:
